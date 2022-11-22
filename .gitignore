@@ -1,0 +1,3 @@
+# Project exclude paths
+/spring-mybatis/target/
+/spring-transacion/target/
