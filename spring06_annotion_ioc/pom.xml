@@ -11,7 +11,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>spring_annotion</artifactId>
+    <artifactId>spring_annotion_ioc</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

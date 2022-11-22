@@ -7,17 +7,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring_autowire" />
-        <module name="spring_bean_create" />
-        <module name="spring_annotion_ioc" />
-        <module name="spring_ioc" />
-        <module name="spring_ioc_impl" />
-        <module name="spring_di" />
-        <module name="spring-transacion" />
-        <module name="spring_appconfig" />
-        <module name="spring_proxy" />
-        <module name="spring-mybatis" />
-        <module name="spring_aop" />
+        <module name="spring01_ioc" />
+        <module name="spring03_bean_create" />
+        <module name="spring06_annotion_ioc" />
+        <module name="spring08_proxy" />
+        <module name="spring04_di" />
+        <module name="spring09_aop" />
+        <module name="spring07_appconfig" />
+        <module name="spring11-transacion" />
+        <module name="spring02_ioc_impl" />
+        <module name="spring05_autowire" />
+        <module name="spring10-mybatis" />
       </profile>
     </annotationProcessing>
   </component>
