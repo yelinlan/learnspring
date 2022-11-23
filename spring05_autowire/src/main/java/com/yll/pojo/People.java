@@ -11,6 +11,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 @ToString
 public class People {
 	private String name;
+	/*@Autowired 不需要提供set方法，就可以完成注入*/
 	//会先byType注入，如果有多个相同类型，就按byName注入
 	//require 默认为true,找不到bean就报错。false：找不到bean也没问题
 	@Autowired(required = true)
